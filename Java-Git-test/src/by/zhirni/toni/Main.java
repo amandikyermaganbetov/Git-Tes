@@ -5,7 +5,7 @@ public class Main {
 		System.out.println("Bagdat is one of the stupid students of IITU");
 		System.out.println("Amandik Yermaganbetov");
 		System.out.println("Yermaganbetov asdasda");
-		
+		Object obj = new Object();
 		
 	}
 }
